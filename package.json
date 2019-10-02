@@ -1,5 +1,5 @@
 {
-  "name": "github-stats",
+  "name": "node-babel-eslint-boilerplate",
   "version": "0.0.1",
   "description": "Quickly gather github stats",
   "main": "index.js",
