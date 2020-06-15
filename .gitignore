@@ -1,3 +1,8 @@
+# Docker data
+**/db/data*/**
+!./db/.gitkeep
+.env
+
 # Logs
 logs
 *.log
