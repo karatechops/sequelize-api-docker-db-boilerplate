@@ -1,7 +1,7 @@
 {
-  "name": "node-babel-eslint-boilerplate",
+  "name": "sequelize-api-docker-db-boilerplate",
   "version": "0.0.1",
-  "description": "Quickly create Node projects",
+  "description": "Quickly create Sequelize projects",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/app.js --exec babel-node --presets babel-preset-env",
