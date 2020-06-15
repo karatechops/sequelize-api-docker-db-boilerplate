@@ -14,9 +14,13 @@
     "babel-preset-airbnb": "^2.5.3",
     "babel-preset-env": "^1.7.0",
     "express": "^4.16.3",
-    "nodemon": "^1.18.3"
+    "nodemon": "^1.18.3",
+    "pg": "^8.2.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.13"
   },
   "devDependencies": {
-    "@hpe/project-scripts": "^1.0.5"
+    "@hpe/project-scripts": "^1.0.5",
+    "sequelize-cli": "^5.5.1"
   }
 }
