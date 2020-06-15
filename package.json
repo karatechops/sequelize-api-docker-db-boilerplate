@@ -1,7 +1,7 @@
 {
   "name": "node-babel-eslint-boilerplate",
   "version": "0.0.1",
-  "description": "Quickly gather github stats",
+  "description": "Quickly create Node projects",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/app.js --exec babel-node --presets babel-preset-env",
